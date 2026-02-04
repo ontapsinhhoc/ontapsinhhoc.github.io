@@ -407,51 +407,161 @@ const boDeThamKhao = [
                 "ten": "ĐỀ THI THỬ THPT 2",
               
                 "pdf": "https://docs.google.com/document/d/1wYc3n_rro5Qe9YvXTS1vp_lIicWSPqTu/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 3",
               
                 "pdf": "https://docs.google.com/document/d/111EA8v07XFKJ6-6lrTWixi7twIqD6mb_/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 4",
               
                 "pdf": "https://docs.google.com/document/d/1zVxgoDcZmOgCTQIj78b1ZaaHldakUc4z/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 5",
               
                 "pdf": "https://docs.google.com/document/d/1-SDAnEOYi0EjcetMu2IQeYG38xQEfk7c/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 6",
               
                 "pdf": "https://docs.google.com/document/d/1YrFUjeU7nMudV04DpJsa1dx4SBFuo--7/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 7",
               
                 "pdf": "https://docs.google.com/document/d/1uGFqI9xKGid2EU0urvp7u5ksrVPn_hjZ/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 8",
               
                 "pdf": "https://docs.google.com/document/d/1nWtC6ayOktSvtyPAysvzOlFxmmZ6TJYq/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 9",
               
                 "pdf": "https://docs.google.com/document/d/1AkUvLjy5UbuMPXVf8m3bqfxUYkwAa9kR/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 10",
               
                 "pdf": "https://docs.google.com/document/d/1QYF2myCMc5bswovYAHx_CxxALea-Y2TP/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
-            },,
+            },
             {
                 "ten": "ĐỀ THI THỬ THPT 11",
               
                 "pdf": "https://docs.google.com/document/d/1pgCAGcbiuHFSfrAVvdJdV9h9D3rbuHu6/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 12",
+              
+                "pdf": "https://docs.google.com/document/d/1-JAcBVLGOJTSSU-6vflcEcXZnNxFfvGR/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 13",
+              
+                "pdf": "https://docs.google.com/document/d/1l-1rKlu0v2Nq6hbKcz1hAcBzCzajf2iH/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 14",
+              
+                "pdf": "https://docs.google.com/document/d/1CIAtViNsE--wooZRpWkcjvxHoJiLwUjx/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 15",
+              
+                "pdf": "https://docs.google.com/document/d/1oa3ESAJLUY1QVwk8YOLHEJcCcvAiI7Ag/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 16",
+              
+                "pdf": "https://docs.google.com/document/d/1VKv07uNCJNdDSVRWIneUsv1PAjfLjDu0/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 17",
+              
+                "pdf": "https://docs.google.com/document/d/1c69DicPPb15w0oCp9oHeT63XJZVFrvQC/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 18",
+              
+                "pdf": "https://docs.google.com/document/d/1gh2J-Hfw_e0RPmsYBtYdNMnKet4yy6F3/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 19",
+              
+                "pdf": "https://docs.google.com/document/d/1bMKOGzXc5TrzkjAdduN5dpKwi8Ri-y_l/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 20",
+              
+                "pdf": "https://docs.google.com/document/d/1rkIOdS7dzpJ74mriaiKSm4P9bB8ux_Fr/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 21",
+              
+                "pdf": "https://docs.google.com/document/d/1fmqxMBa4Qv1oJneb9_0P28_7HbRmOLz9/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 22",
+              
+                "pdf": "https://docs.google.com/document/d/1IX-QCQ2DRYZBn_6QE6YBJGEtTIRP40Jv/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 23",
+              
+                "pdf": "https://docs.google.com/document/d/1OGYCgisbXolKp4w1gQ09jFFbk1LATrsw/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 24",
+              
+                "pdf": "https://docs.google.com/document/d/1JRg7yghqD7nZfql7QqoFT43_U0t5DaE_/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 25",
+              
+                "pdf": "https://docs.google.com/document/d/1AmQZ0igqgEMOCPF-1LaEV4Hz5T0qyh46/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 26",
+              
+                "pdf": "https://docs.google.com/document/d/1mhWg_V5iwFysLGfdgv9aUMKvlr_IaVAu/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 27",
+              
+                "pdf": "https://docs.google.com/document/d/1rEn91xswbzvfABUiztFFs9DUDBlKQLqK/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 28",
+              
+                "pdf": "https://docs.google.com/document/d/18Qnm6KZmpsxzkDcr8PmdrERYllcTF4ab/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 29",
+              
+                "pdf": "https://docs.google.com/document/d/1jTmt7KkO2D8gyPKQj1lcKkWJOXkyPuVv/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 30",
+              
+                "pdf": "https://docs.google.com/document/d/1wBEM3jJZ6S-qhhZT3YsWkuKZbc2XhzKZ/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 31",
+              
+                "pdf": "https://docs.google.com/document/d/1ME4lZlPEVJbjPh52RmqqFdQP8GJvjGZI/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 32",
+              
+                "pdf": "https://docs.google.com/document/d/1KutJ81knWWqJ3IpezCLqXo0f7c_KCyoD/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
+            },
+            {
+                "ten": "ĐỀ THI THỬ THPT 33",
+              
+                "pdf": "https://docs.google.com/document/d/1H6AJnVZSNOLEVfnSs6WSGEFVKmHwb992/edit?usp=sharing&ouid=102528657678827283983&rtpof=true&sd=true"
             },
 			{
                 "ten": "ĐÊ THI HSG và HDC",
